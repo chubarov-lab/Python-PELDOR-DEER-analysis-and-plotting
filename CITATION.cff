@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it."
+authors:
+  - family-names: "Chubarov"
+    given-names: "Alexey"
+title: "Python-PELDOR-DEER-analysis-and-plotting"
+version: 1.0.0
+date-released: 2026-11-19
+url: "https://github.com/chubarov-lab/Python-PELDOR-DEER-analysis-and-plotting"
